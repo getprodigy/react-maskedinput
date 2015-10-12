@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "main": "./lib/index.js",
   "standalone": "MaskedInput",
-  "homepage": "https://github.com/insin/react-maskedinput",
+  "homepage": "https://github.com/getprodigy/react-maskedinput",
   "license": "MIT",
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "keywords": [
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/insin/react-maskedinput.git"
+    "url": "http://github.com/getprodigy/react-maskedinput.git"
   }
 }
